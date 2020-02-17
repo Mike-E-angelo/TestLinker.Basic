@@ -2,7 +2,7 @@ using Xunit;
 
 namespace TestLinker.Testing
 {
-	public class UnitTest1
+	public class Class1Tests
 	{
 		[Fact]
 		public void Test1()
